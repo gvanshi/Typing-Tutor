@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  #typingArea {
+    width: 100%;
+    max-width: 600px;
+    height: 200px;
+  }
+  
+  #feedback {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: red;
+  }
+  
